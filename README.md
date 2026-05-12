@@ -86,9 +86,9 @@ Using transformer age as the sole predictor, identical parameters converged acro
 
 β > 1 confirms an increasing failure rate across the fleet's lifetime. η ≈ 22.7 years indicates transformers begin experiencing accelerating failures at roughly 22 years of age.
 
-[Figure 1: Failure Probability of 50kVA Transformers](outputs/50kVA_age_only.jpg)
-[Figure 11: Failure Probability of 100kVA Transformers](outputs/100kVA_age_only.jpg)
-[Figure 13: Failure Probability of 200kVA Transformers](outputs/200kVA_age_only.jpg)
+![Failure Probability of 50kVA Transformers](outputs/50kVA_age_only.jpg)
+![Failure Probability of 100kVA Transformers](outputs/100kVA_age_only.jpg)
+![Failure Probability of 200kVA Transformers](outputs/200kVA_age_only.jpg)
 
 ---
 
@@ -123,9 +123,9 @@ Incorporating cause of failure as a covariate substantially improved the model a
 | Overloading | 30 |
 | Moisture Ingress | 41.5 |
 
-![Figure 10: Failure Probability of 50kVA Transformers by Cause](outputs/50kVa_by_cause.jpxg)
-![Figure 12: Failure Probability of 100kVA Transformers by Cause](outputs/100kVA_by_cause.jpg)
-![Figure 14: Failure Probability of 200kVA Transformers by Cause](outputs/200kVA_by_cause.jpg)
+![Failure Probability of 50kVA Transformers by Cause](outputs/50kVa_by_cause.jpxg)
+![Failure Probability of 100kVA Transformers by Cause](outputs/100kVA_by_cause.jpg)
+![Failure Probability of 200kVA Transformers by Cause](outputs/200kVA_by_cause.jpg)
 
 **Key findings:**
 
@@ -143,7 +143,7 @@ Incorporating cause of failure as a covariate substantially improved the model a
 | Normal Operating Stage (9–35 years) | 11% | 23% | 18% |
 | Wear-Out Stage (36–50 years) | 51% | 58% | 54% |
 
-![Figure 16: Cumulative Distribution Curves for All Three Groups](outputs/group_comparison.jpg)
+![Cumulative Distribution Curves for All Three Groups](outputs/group_comparison.jpg)
 
 ---
 
